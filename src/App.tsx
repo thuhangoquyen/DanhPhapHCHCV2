@@ -293,7 +293,7 @@ const grade12Data = [
     name: "Aminoethanoic acid",
     type: "Amino Acid",
     commonName: "Aminoacetic acid / Glycine (Gly)",
-    chapter: "CChương 3: Amine - Amino acid - Peptide",
+    chapter: "Chương 3: Amine - Amino acid - Peptide",
   },
   {
     id: 36,
@@ -309,7 +309,7 @@ const grade12Data = [
     name: "2-amino-3-methylbutanoic acid",
     type: "Amino Acid",
     commonName: "α-aminoisovaleric acid / Valine (Val)",
-    chapter: "CChương 3: Amine - Amino acid - Peptide",
+    chapter: "Chương 3: Amine - Amino acid - Peptide",
   },
   {
     id: 38,
