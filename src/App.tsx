@@ -120,7 +120,7 @@ const grade12Data = [
   {
     id: 14,
     formula: "CH2=C(CH3)COOCH3",
-    name: "Methyl metacrylate",
+    name: "Methyl methacrylate",
     type: "Ester",
     commonName: "",
     chapter: "Chương 1: Ester-Lipid",
